@@ -24,7 +24,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="[https://discord.gg/PYDYvgtP](https://linktr.ee/merenylmz)" target="_blank">
-    <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg](https://upload.wikimedia.org/wikipedia/commons/e/ee/Chain_link_icon.png)" width="52" height="40" alt="logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="logo"  />
   </a>
 </div>
 
