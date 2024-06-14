@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Merhaba Ben Eren Github hesabıma Hoşgeldiniz ben 12.sınıfa giden bir Meslek lisesi öğrencisiyim ve Yazılımla ilgileniyorum İlgilendiğim diller aşağıda bulunmakta detaylı bilgi için m.erenyilmaz2007@gmail.com mailinden erişebilirsiniz.<br><br><br><br><br>Hello Ben Eren Welcome to my Github account I am a Vocational high school student going to 12th grade and I am interested in Software The languages I am interested in are below, for detailed information you can reach me at m.erenyilmaz2007@gmail.com mail address.</p>
+<p align="left">Merhaba Ben Eren Github hesabıma Hoşgeldiniz ben 12.sınıfa giden bir Meslek lisesi öğrencisiyim ve Yazılımla ilgileniyorum İlgilendiğim diller aşağıda bulunmakta detaylı bilgi için m.erenyilmaz2007@gmail.com mailinden erişebilirsiniz.<br><br><br><br><br>Hello  I'm Eren Welcome to my Github account I am a Vocational high school student going to 12th grade and I am interested in Software The languages I am interested in are below, for detailed information you can reach me at m.erenyilmaz2007@gmail.com mail address.</p>
 
 ###
 
